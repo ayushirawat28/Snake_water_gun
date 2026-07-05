@@ -5,6 +5,9 @@ where user plays aginst the computer
 - 5 rounds of game
 - Random computer choices
 - Invalid input handling
+- play again option
+- score of each round
+- final winner annoucement
 ## Rules to play
 - snake drinks water : snake wins
 - gun kills the snake: gun wins
