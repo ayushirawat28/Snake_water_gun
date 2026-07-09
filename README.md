@@ -8,6 +8,7 @@ where user plays aginst the computer
 - play again option
 - score of each round
 - final winner annoucement
+- handle uppercase input
 ## Rules to play
 - snake drinks water : snake wins
 - gun kills the snake: gun wins
